@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Min-Max Sum", "Algorithms\Min-Max Sum.csproj", "{60CF1852-E6E7-4D8C-99E5-1295A39DA3E3}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeConversion", "TimeConversion\TimeConversion.csproj", "{1307C616-E917-4B21-A010-16E783D55884}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BirthdayCakeCandles", "BirthdayCakeCandles\BirthdayCakeCandles.csproj", "{E66E59CE-B948-484A-9BEF-6934BB898825}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingStudents", "GradingStudents\GradingStudents.csproj", "{53E2937B-FF0E-4564-9309-CB726268EBD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradingStudents", "GradingStudents\GradingStudents.csproj", "{53E2937B-FF0E-4564-9309-CB726268EBD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apple&Orange", "Apple&Orange\Apple&Orange.csproj", "{DA197013-1373-4614-95F7-66F74FF84FEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apple&Orange", "Apple&Orange\Apple&Orange.csproj", "{DA197013-1373-4614-95F7-66F74FF84FEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberLineJumps", "NumberLineJumps\NumberLineJumps.csproj", "{DF9BD0B2-7690-43C3-A0A7-4DFBD97490CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberLineJumps", "NumberLineJumps\NumberLineJumps.csproj", "{DF9BD0B2-7690-43C3-A0A7-4DFBD97490CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetweenTwoSets", "BetweenTwoSets\BetweenTwoSets.csproj", "{6F602048-F67A-4E4C-9F7F-28C4293A9CF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BetweenTwoSets", "BetweenTwoSets\BetweenTwoSets.csproj", "{6F602048-F67A-4E4C-9F7F-28C4293A9CF9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Min-Max Sum", "Mini-Max Sum\Min-Max Sum.csproj", "{3BF8A450-6C70-410E-B4FF-7829B9B58886}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{60CF1852-E6E7-4D8C-99E5-1295A39DA3E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{60CF1852-E6E7-4D8C-99E5-1295A39DA3E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{60CF1852-E6E7-4D8C-99E5-1295A39DA3E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{60CF1852-E6E7-4D8C-99E5-1295A39DA3E3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1307C616-E917-4B21-A010-16E783D55884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1307C616-E917-4B21-A010-16E783D55884}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1307C616-E917-4B21-A010-16E783D55884}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -51,6 +47,10 @@ Global
 		{6F602048-F67A-4E4C-9F7F-28C4293A9CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F602048-F67A-4E4C-9F7F-28C4293A9CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F602048-F67A-4E4C-9F7F-28C4293A9CF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BF8A450-6C70-410E-B4FF-7829B9B58886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF8A450-6C70-410E-B4FF-7829B9B58886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BF8A450-6C70-410E-B4FF-7829B9B58886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF8A450-6C70-410E-B4FF-7829B9B58886}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
